@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Fast Whatsapp Messaging - Without Saving Contact Number</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="firstTitle">you will be send message to anyone of who has already registered in whatsapp. but you did not save number in contact. </string>
+    <string name="secondTitle">without saving number.</string>
+</resources>
